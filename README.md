@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ``` java
-public Class ContactinfoVO {
+public Class ContactInfoVO {
 
  private String  phoneNumber = "";
  private String  email = "";
