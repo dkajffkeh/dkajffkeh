@@ -63,6 +63,7 @@ public Class ContactInfoVO {
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=Node.js&logoColor=white&style=flat"/>&nbsp;
 <img src="https://img.shields.io/badge/-Angular.js-DD0031?logo=Angular&logoColor=white&style=flat"/>&nbsp;
 <img src="https://img.shields.io/badge/-Ext.js-8ED500?logo=Javascript&logoColor=white&style=flat"/>&nbsp;
+<img src="https://img.shields.io/badge/-JQuery-8ED500?logo=jQuery&logoColor=white&style=flat"/>&nbsp;
 ***
 
 -&nbsp;Server , DevOps<br><br>
