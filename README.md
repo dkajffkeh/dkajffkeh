@@ -44,7 +44,6 @@ public Class ContactInfoVO {
 <img src="https://img.shields.io/badge/-SpringSecurity-6DB33F?logo=AdBlock&logoColor=white&style=flat"/>&nbsp;
 <img src="https://img.shields.io/badge/-JavaStomp-6DB33F?logo=SpringBoot&logoColor=white&style=flat"/>&nbsp;
 <img src="https://img.shields.io/badge/-SpringCloude-6DB33F?logo=SpringBoot&logoColor=white&style=flat"/>&nbsp;
-<img src="https://img.shields.io/badge/-JavaQuartz-6DB33F?logo=Clockify&logoColor=white&style=flat"/>&nbsp;
 <img src="https://img.shields.io/badge/-SpringJPA-6DB33F?logo=Oracle&logoColor=white&style=flat"/>&nbsp;
 <img src="https://img.shields.io/badge/-전자정부프레임워크-6DB33F?logo=Spring&logoColor=white&style=flat"/>&nbsp;
 ***
