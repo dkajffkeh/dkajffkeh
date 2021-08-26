@@ -21,13 +21,10 @@ Here are some ideas to get you started:
 ``` java
 public Class ContactInfoVO {
 
- private String  phoneNumber = "";
  private String  email = "";
+ 
  private String  github = "";
 
- public String setPhoneNumber(){
-     return "010-9953-6824";
- }
   public String setEmail(){
      return "yhy1045@naver.com";
  }
