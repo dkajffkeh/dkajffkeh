@@ -18,20 +18,9 @@ Here are some ideas to get you started:
 # Patrick's intro
 
 
-``` java
-public Class ContactInfoVO {
-
- private String  email = "";
- 
- private String  github = "";
-
-  public String setEmail(){
-     return "yhy1045@naver.com";
- }
-  public String setGibhub(){
-     return "https://github.com/dkajffkeh";
- }
-}
+``` text
+email : yhy1045@naver.com
+ph : +82-10-9953-6824
 ```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkajffkeh&show_icons=true&theme=radical)    
